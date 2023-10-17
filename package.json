@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "example1": "npx ts-node ./src/example1.ts",
+    "example2": "npx ts-node ./src/example2.ts"
+  }
+}
